@@ -14,15 +14,6 @@
 
 This repository contains a time series analysis and forecasting project that focuses on analyzing historical sales data and making future sales predictions for a retail business. The project utilizes Python and popular libraries such as Pandas, Matplotlib, and Statsmodels to perform the analysis and generate forecasts.
 
-## Getting Started
-
-To get started with this project, follow these steps:
-
-1. **Clone the repository to your local machine using Git.**
-   ```shell
-   git clone https://github.com/your-username/time-series-analysis.git
-## Project Overview
-
 This project focuses on Time Series Analysis and Forecasting in the context of the retail business. Time series analysis is crucial for businesses to make informed decisions, optimize inventory, and enhance customer satisfaction. In this project, we aim to achieve the following objectives:
 
 - Understand and uncover sales patterns and trends over time.

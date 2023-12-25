@@ -84,3 +84,5 @@ The culmination of our analysis and forecasting efforts leads to insightful resu
 - **Sales Insights:** Key findings and observations from our analysis, including seasonality, trends, and any anomalies detected.
 - **Future Sales Forecasts:** Accurate forecasts of future sales based on our selected models.
 - **Recommendations:** Actionable recommendations for optimizing inventory management, resource allocation, and overall business strategies based on our insights and forecasts.
+For a detailed step-by-step guide on this project, refer to the article here: https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b
+
